@@ -31,7 +31,7 @@
 ## 📥 Installation & Setup
 
 ```sh
-git clone https://github.com/your-repo/todo-app.git
+git clone https://github.com/nadajaradat/todo-app-with-nextjs
 cd todo-app
 npm install
 npm run dev
