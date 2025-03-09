@@ -16,6 +16,9 @@
 
 🔄 **JSON Server Integration** - Simulates a backend for CRUD operations.
 
+![image](https://github.com/user-attachments/assets/5b55123e-659b-48b9-b9ea-479f3ea437f2)
+
+
 ## 🛠 Technologies Used
 
 ⚡ **Next.js 13** - React framework for server-side rendering and optimized web applications.
@@ -43,5 +46,5 @@ npm run dev
 npm run json-server
 ```
 
-Open your browser and visit [http://localhost:3004](http://localhost:3004).
+Open your browser and visit [http://localhost:3000](http://localhost:3000).
 
